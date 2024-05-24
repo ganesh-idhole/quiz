@@ -1,38 +1,38 @@
 const questions =[
     {
-         question : "Q1.what is your name ?",
+         question : "Q1.Which data structure is based on the Last In First Out (LIFO) principle?",
          options :[
-             "ganesh","om","nikhil","rajesh",
-         ],
-         correct : 0,
-     },
-     {
-         question : "Q2.what is your father name ?",
-         options :[
-             "g","s","c","s",
-         ],
-         correct : 1,
-     },
-     {
-         question : "Q3.what is your school name ?",
-         options :[
-             "A","B","C","D",
+             "Tree","Linked List","Stack","Queue",
          ],
          correct : 2,
      },
      {
-         question : "Q4.what is your address ?",
+         question : "Q2.What is a data structure?",
          options :[
-             "X","Y","Z","W",
+            "A way to store and organize data", "A programming language","A collection of algorithms","A type of computer hardware",
+         ],
+         correct : 2,
+     },
+     {
+         question : "Q3.The data structure required for Breadth First Traversal on a graph is ?",
+         options :[
+             " Array","Stack","Tree","Queue",
          ],
          correct : 3,
      },
      {
-         question : "Q5.which mobile do you have  ?",
+         question : "Q4.Which of the following is the full form of RDBMS ?",
          options :[
-             "oppo","jio","vivo","honour",
+             "Relational Data Management System","Relational Database Management System","Relative Database Management System","Regional Data Management System",
          ],
-         correct : 0,
+         correct : 1,
+     },
+     {
+         question : "Q5.What is a relation in RDBMS ?",
+         options :[
+             "Key","Table","Row","Data Types",
+         ],
+         correct : 1,
      },
     ];
    
