@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+.main{
+    background-color: rgb(126, 202, 177);
+    width: 500px;
+    text-align:left;
+    margin-top: 100px;
+}
+#second_div{
+    text-align:center;
+}
+ #submit{
+    height: 30px;
+    background-color: rgb(255, 71, 71);
+ }
+ input{
+    cursor: pointer;
+ }
+ label{
+    cursor: pointer;
+ }
+ button{
+    cursor: pointer;
+ }
+
